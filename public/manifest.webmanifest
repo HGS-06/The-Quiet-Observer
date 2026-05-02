@@ -1,0 +1,17 @@
+{
+  "name": "The Quiet Observer",
+  "short_name": "Observer",
+  "description": "A private space for your thoughts and reflections.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1A1B2E",
+  "theme_color": "#1A1B2E",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
